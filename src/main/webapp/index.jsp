@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="./WebContent/style.css" />
   </head>
   <body>
+  <jsp:include page="./WebContent/header/header.jsp">
     <div class="div-wrapper">
       <div class="div">
         <div class="overlap">
