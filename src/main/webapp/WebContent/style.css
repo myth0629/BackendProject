@@ -9,7 +9,7 @@
 .div-wrapper .div {
   background-color: #ffffff;
   width: 1440px;
-  height: 2296px;
+  height: 2451px;
   position: relative;
 }
 
@@ -278,11 +278,11 @@
 }
 
 .div-wrapper .component {
-  width: 162px;
-  left: 148px;
   position: absolute;
+  width: 162px;
   height: 55px;
   top: 0;
+  left: 148px;
 }
 
 .div-wrapper .overlap-2 {
@@ -316,11 +316,11 @@
 }
 
 .div-wrapper .overlap-wrapper {
-  width: 149px;
-  left: 384px;
   position: absolute;
+  width: 149px;
   height: 55px;
   top: 0;
+  left: 384px;
 }
 
 .div-wrapper .text-wrapper-3 {
@@ -339,11 +339,11 @@
 }
 
 .div-wrapper .overlap-group-wrapper {
-  width: 162px;
-  left: 584px;
   position: absolute;
+  width: 162px;
   height: 55px;
   top: 0;
+  left: 584px;
 }
 
 .div-wrapper .list {
@@ -590,4 +590,86 @@
   left: 833px;
   background-image: url(./img/4.png);
   background-size: 100% 100%;
+}
+
+.div-wrapper .component-2 {
+  position: absolute;
+  width: 1440px;
+  height: 218px;
+  top: 2233px;
+  left: 0;
+  background-color: #0099ffcc;
+}
+
+.div-wrapper .text-wrapper-11 {
+  position: absolute;
+  width: 255px;
+  height: 48px;
+  top: 169px;
+  left: 593px;
+  font-family: "Nanum Gothic", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  line-height: 24px;
+}
+
+.div-wrapper .overlap-7 {
+  position: absolute;
+  width: 597px;
+  height: 48px;
+  top: 83px;
+  left: 513px;
+}
+
+.div-wrapper .text-wrapper-12 {
+  left: 342px;
+  position: absolute;
+  width: 255px;
+  height: 48px;
+  top: 0;
+  font-family: "Nanum Gothic", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  line-height: 24px;
+}
+
+.div-wrapper .text-wrapper-13 {
+  left: 157px;
+  position: absolute;
+  width: 255px;
+  height: 48px;
+  top: 0;
+  font-family: "Nanum Gothic", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  line-height: 24px;
+}
+
+.div-wrapper .text-wrapper-14 {
+  left: 0;
+  position: absolute;
+  width: 255px;
+  height: 48px;
+  top: 0;
+  font-family: "Nanum Gothic", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  line-height: 24px;
+}
+
+.div-wrapper .overlap-8 {
+  position: absolute;
+  width: 597px;
+  height: 48px;
+  top: 35px;
+  left: 513px;
 }

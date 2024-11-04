@@ -1,10 +1,12 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8" />
-    <link rel="stylesheet" href="globals.css" />
-    <link rel="stylesheet" href="styleguide.css" />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="./globals.css" />
+    <link rel="stylesheet" href="./WebContent/styleguide.css" />
+    <link rel="stylesheet" href="./WebContent/style.css" />
   </head>
   <body>
     <div class="div-wrapper">
@@ -117,6 +119,19 @@
               <div class="text-wrapper-8">중국</div>
               <div class="text-wrapper-10">최저가 ~원 부터</div>
             </div>
+          </div>
+        </div>
+        <div class="component-2">
+          <div class="text-wrapper-11">©TravelMaster 2024</div>
+          <div class="overlap-7">
+            <div class="text-wrapper-12">개인정보처리방침</div>
+            <div class="text-wrapper-13">서비스 약관</div>
+            <div class="text-wrapper-14">로그인</div>
+          </div>
+          <div class="overlap-8">
+            <div class="text-wrapper-14">도움말</div>
+            <div class="text-wrapper-13">회사 정보</div>
+            <div class="text-wrapper-12">탐색</div>
           </div>
         </div>
       </div>
