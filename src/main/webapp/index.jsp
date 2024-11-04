@@ -15,7 +15,7 @@
           <div class="view">
             <div class="overlap-group">
               <div class="rectangle"></div>
-              <img class="location-on" src="img/location-on-2.svg" />
+              <img class="location-on" src="./WebContent/img/location-on-2.svg" />
               <button class="button">
                 <div class="state-layer"><div class="label-text">검색</div></div>
               </button>
@@ -38,46 +38,46 @@
                       <div class="content">
                         <div class="input-text-container">
                           <div class="input-text">여행지를 선택해주세요</div>
-                          <img class="caret" src="img/caret-4.svg" />
+                          <img class="caret" src="./WebContent/img/caret-4.svg" />
                         </div>
                         <div class="label-text-container"><div class="text-wrapper"></div></div>
                       </div>
                       <div class="trailing-icon">
                         <div class="container">
-                          <div class="icon-wrapper"><img class="icon" src="img/icon-25.svg" /></div>
+                          <div class="icon-wrapper"><img class="icon" src="./WebContent/img/icon-25.svg" /></div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-              <img class="calendar" src="img/calendar-1.svg" />
+              <img class="calendar" src="./WebContent/img/calendar-1.svg" />
             </div>
           </div>
           <div class="component">
             <div class="overlap-2">
               <div class="text-wrapper-2">항공편</div>
-              <img class="image" src="img/image-2-1.png" />
+              <img class="image" src="./WebContent/img/image-2-1.png" />
             </div>
           </div>
           <div class="overlap-wrapper">
             <div class="overlap-2">
               <div class="text-wrapper-3">호텔</div>
-              <img class="image" src="img/image-3-1.png" />
+              <img class="image" src="./WebContent/img/image-3-1.png" />
             </div>
           </div>
           <div class="overlap-group-wrapper">
             <div class="overlap-2">
               <div class="text-wrapper-2">관광지</div>
-              <img class="image" src="img/image-4-1.png" />
+              <img class="image" src="./WebContent/img/image-4-1.png" />
             </div>
           </div>
         </div>
-        <img class="list" src="img/size-48-1.svg" />
-        <img class="user" src="img/user-1.svg" />
+        <img class="list" src="./WebContent/img/size-48-1.svg" />
+        <img class="user" src="./WebContent/img/user-1.svg" />
         <div class="overlap-3">
           <div class="text-wrapper-4">Travel Master</div>
-          <img class="free-icon-landscapes" src="img/free-icon-landscapes-7984718-1.png" />
+          <img class="free-icon-landscapes" src="./WebContent/img/free-icon-landscapes-7984718-1.png" />
         </div>
         <div class="text-wrapper-5">당신이 원하는 곳 어디든</div>
         <div class="image-default"><div class="text-wrapper-6">당신만을 위한 최적의 여행</div></div>
