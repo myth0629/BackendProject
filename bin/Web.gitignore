@@ -1,0 +1,30 @@
+# Eclipse 관련
+.classpath
+.project
+.settings/
+
+# 빌드 아티팩트
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# 운영체제 및 편집기 관련
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# 기타 플러그인 및 툴 관련
+.externalToolBuilders/
+.recommenders/
+*.launch
+
+# Maven 관련
+pom.xml.releaseBackup
+pom.xml.tag
+dependency-reduced-pom.xml
+
+# 로컬 환경 설정 파일
+local.properties

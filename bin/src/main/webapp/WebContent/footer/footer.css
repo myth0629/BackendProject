@@ -1,0 +1,11 @@
+.footer {
+  font-family: "Nanum Gothic", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  line-height: 24px;
+  left: 0;
+  background-color: #0099ffcc;
+}
